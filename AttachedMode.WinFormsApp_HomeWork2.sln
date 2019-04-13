@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachedMode.WinFormsApp_HomeWork2", "AttachedMode.WinFormsApp_HomeWork2\AttachedMode.WinFormsApp_HomeWork2.csproj", "{D5E4FA0E-BD38-4060-917E-3F6E378DB919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachedMode.Services_HomeWork2", "AttachedMode.Services_HomeWork2\AttachedMode.Services_HomeWork2.csproj", "{40999F6A-B272-42CB-AAED-727D5A7AF897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E4FA0E-BD38-4060-917E-3F6E378DB919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E4FA0E-BD38-4060-917E-3F6E378DB919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E4FA0E-BD38-4060-917E-3F6E378DB919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E4FA0E-BD38-4060-917E-3F6E378DB919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40999F6A-B272-42CB-AAED-727D5A7AF897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40999F6A-B272-42CB-AAED-727D5A7AF897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40999F6A-B272-42CB-AAED-727D5A7AF897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40999F6A-B272-42CB-AAED-727D5A7AF897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {119F8177-33B4-4A3E-B2C6-0904B0025E4E}
+	EndGlobalSection
+EndGlobal
